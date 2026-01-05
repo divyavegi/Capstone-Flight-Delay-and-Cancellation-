@@ -19,7 +19,7 @@ With increasing reports of flight delays and cancellations—especially during p
 
 ## Data Sources
 - U.S. Department of Transportation – Bureau of Transportation Statistics  https://www.bts.gov/
-- Weather Data Airport-level ASOS / METAR observations
+- Weather Data Airport-level 
 
 ## Data Preparation & Normalization
 Combined monthly 2024 BTS on-time performance files into one consolidated dataset (millions of records)
@@ -37,4 +37,4 @@ Aggregated data by airline, airport, month, season, and departure time block
 - Git
 
 ## Conclusion
-The analysis shows that flight disruptions do not happen evenly across all flights. Some months, seasons, and times of day are more likely to experience delays than others. Airlines also differ in how they manage disruptions, with some experiencing more delays while others cancel flights more often.The analysis shows that operational issues such as late aircraft and congestion are just as important as weather in contributing to delays
+The analysis shows that flight disruptions do not happen evenly across all flights. Some months, seasons, and times of day are more likely to experience delays than others. Airlines also differ in how they manage disruptions, with some experiencing more delays while others cancel flights more often.The analysis shows that operational issues such as late aircraft and congestion are just as important as weather in contributing to delays.
