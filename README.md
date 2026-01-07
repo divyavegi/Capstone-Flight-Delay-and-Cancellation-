@@ -19,7 +19,7 @@ With increasing reports of flight delays and cancellations—especially during p
 
 ## Data Sources
 - U.S. Department of Transportation – Bureau of Transportation Statistics  https://www.bts.gov/
-- Weather Data Airport-level 
+- Weather Data  - https://mesonet1.agron.iastate.edu/ASOS/
 
 ## Data Preparation & Normalization
 Combined monthly 2024 BTS on-time performance files into one consolidated dataset (millions of records)
