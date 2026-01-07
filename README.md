@@ -12,7 +12,7 @@ With increasing reports of flight delays and cancellations—especially during p
 ## Key Questions
 - How frequently do flight delays, cancellations, and diversions occur?
 - When are delays most likely (by month, season, and time of day)?
-- Which airlines and airports experience higher disruption rates?
+- Which airlines and experience higher disruption rates?
 - How severe are delays, and how are they distributed?
 - What are the primary causes of delays?
 - How do weather-related conditions affect flight outcomes?
@@ -30,8 +30,7 @@ Aggregated data by airline, airport, month, season, and departure time block
 
 ## Tools & Technologies
 - Python 
-- Matplotlib & Seaborn 
-- Power BI  
+- Matplotlib & Seaborn   
 - Excel  
 - PowerPoint
 - Git
